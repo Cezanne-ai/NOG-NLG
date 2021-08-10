@@ -8,4 +8,4 @@ The final form of this models will be committed in the Open-framework repository
 Code implementation in progress. 
 Possible commit date: 31 December 2021.
 
-Please check for details: Project-documentation repository, NOG-NLG file and the research paper "Cezanne-ai: a conversational AI open-framework for multi-domains, all the languages and limited data".
+Please check for details: Project-documentation repository (Cezanne-ai project) and the research paper "Cezanne-ai: a conversational AI open-framework for multi-domains, all the languages and limited data".
