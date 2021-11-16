@@ -6,6 +6,6 @@ Adaptation for restaurant recommendation and deep-conversational based on 3 book
 The final form of this model will be committed in new repository together with the other layers: CPL, NIU/NLU and back-up model
 
 Code implementation in progress. 
-Possible commit date: 31 December 2021.
+Possible commit date: TBD.
 
 Please check for details: Project-documentation repository (Cezanne-ai project) and the research paper "Cezanne-ai: a conversational AI framework for emerging languages and limited data".
